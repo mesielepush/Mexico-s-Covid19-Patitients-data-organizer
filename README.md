@@ -37,7 +37,7 @@ And that should be all, no parameters need it.
 
 To run it from Jupyter Notebook, open your jupyter notebook on the same folder as this repository and open this notebook. 
 
-And that's all, any issue please go to: [Project Link Issues](https://github.com/mesielepush/public-square/issues)
+And that's all, any issue please go to: [Project Link Issues](https://github.com/mesielepush/Mexico-s-Covid19-Patitients-data-organizer/issues)
 
 
 Jonathan Marín - [Github](https://github.com/mesielepush)
